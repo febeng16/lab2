@@ -7,6 +7,7 @@ First, i created a Twitter KPI and filtered the parameters to collecet specific 
 
 For this awareness to be spread, Ethiopians and non ethiopians have been using hashtags like: 
 '''
+
 #Tigraygenocide
 #waronTigray
 #StopwaronTigray
