@@ -17,4 +17,4 @@ But the most common was "#stopwaronTigray" which is what i used to be able to ge
 After i got my csv file of the tweet collecction, i went to create a visualization on QGIS to show specifically where those tweets came from. I focused my lication search on the Unites States and that is what my map is going to have. 
 
 The picture above is the final map that i created, the orange dots shows that people have tweeted about Tigray's ongoing war and genocide usisng the hashtag #stopwaronTigray. 
-
+There is more dots in Washington State, California, Washington DC, and Texas. This is because those states have big Ethiopian communities compared to other states. Majority of Ethiopians from back home end up in one of these states. It would make sense that those states have more tweets in those areas. 
