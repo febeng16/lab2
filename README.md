@@ -7,12 +7,14 @@ First, i created a Twitter KPI and filtered the parameters to collecet specific 
 
 For this awareness to be spread, Ethiopians and non ethiopians have been using hashtags like: 
 
-> #Tigraygenocide
-> #WaronTigray
-> #StopwaronTigray
+> - #Tigraygenocide
+> - #WaronTigray
+> - #StopwaronTigray
 
 
 But the most common was "#stopwaronTigray" which is what i used to be able to get the most amount of geo-tagged tweet collection, i allowed the time limit to run until 300 to get more information for that amount of time. 
 
+After i got my csv file of the tweet collecction, i went to create a visualization on QGIS to show specifically where those tweets came from. I focused my lication search on the Unites States and that is what my map is going to have. 
 
+The picture above is the final map that i created, the orange dots shows that people have tweeted about Tigray's ongoing war and genocide usisng the hashtag #stopwaronTigray. 
 
