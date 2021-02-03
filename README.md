@@ -6,12 +6,11 @@
 First, i created a Twitter KPI and filtered the parameters to collecet specific geotagged tweets. I wanted to focus my topic on the ongoing genocide and war in Tigray, a northern region of Ethiopia. This is a very important topic in general and especially to me personally. 
 
 For this awareness to be spread, Ethiopians and non ethiopians have been using hashtags like: 
-'''
 
-#Tigraygenocide
-#waronTigray
-#StopwaronTigray
-'''
+> #Tigraygenocide
+> #WaronTigray
+> #StopwaronTigray
+
 
 But the most common was "#stopwaronTigray" which is what i used to be able to get the most amount of geo-tagged tweet collection, i allowed the time limit to run until 300 to get more information for that amount of time. 
 
